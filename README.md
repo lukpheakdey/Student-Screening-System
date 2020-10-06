@@ -9,10 +9,9 @@ https://github.com/binhtv/student-screening-system
 # Login Screen
 <img width="1440" alt="2  Login" src="https://user-images.githubusercontent.com/10406702/95246222-2d5cec80-07e2-11eb-9759-796bfe55075c.png">
 
-<img width="1440" alt="3  Homepage" src="https://user-images.githubusercontent.com/10406702/95246223-2d5cec80-07e2-11eb-85f5-386550746860.png">
+# User/Admin Dashboard <img width="1440" alt="3  Homepage" src="https://user-images.githubusercontent.com/10406702/95246223-2d5cec80-07e2-11eb-85f5-386550746860.png">
 
-# List of Question 
-<img width="1440" alt="4  List of Questions" src="https://user-images.githubusercontent.com/10406702/95246224-2df58300-07e2-11eb-9314-7528a0a88764.png">
+# List of Question <img width="1440" alt="4  List of Questions" src="https://user-images.githubusercontent.com/10406702/95246224-2df58300-07e2-11eb-9314-7528a0a88764.png">
 
 # User who take Exam <img width="1440" alt="5  Review Result" src="https://user-images.githubusercontent.com/10406702/95246225-2df58300-07e2-11eb-930b-32a24ee14748.png">
 
