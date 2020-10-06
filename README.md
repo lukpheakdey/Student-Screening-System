@@ -2,7 +2,7 @@
 Source code
 https://github.com/binhtv/student-screening-system
 
-# Technology use - Angualr 7 - NodeJS - MongoDB - Redux
+# Technology use - Angualr 7 - NodeJS - MongoDB - Redux![Untitled-design-11-e1446056015181](https://user-images.githubusercontent.com/10406702/95248182-ede3cf80-07e4-11eb-8535-31c085dc6e57.jpg)
 
 # Weclome Screen <img width="1440" alt="1  Start" src="https://user-images.githubusercontent.com/10406702/95246219-2d5cec80-07e2-11eb-96de-481060fbf5a0.png">
 
